@@ -43,7 +43,7 @@ Additional import:```naive_training.py```
 Run the algrithm:
 
 ```naive_training.get_results_for_learning_rates(df, FEATURE_NAMES, PROTECTED_COLUMNS, PROXY_COLUMNS, LABEL_COLUMN,constraint='tpr')```
-with a list of learning rates.
+with a list of learning rates. Please use ``` constraint='tpr_and_fpr'``` for experiments on Credit dataset.
 
 
 ### DRO algorithm
