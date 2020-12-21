@@ -1,6 +1,6 @@
 # Robust Optimization for Fairness with Noisy Protected Groups
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/wenshuoguo/robust-fairness-code/blob/master/LICENSE)
-Code for experiments in paper "Robust Optimization for Fairness with Noisy Protected Groups".
+Code for experiments in paper [Robust Optimization for Fairness with Noisy Protected Groups](https://arxiv.org/pdf/2002.09343.pdf), NeurIPS 2020.
 ## Prerequisites
 Python 3, tensorflow 1.14.0, numpy, pandas
 ## Data preprocessing
